@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Inception",
+        "genre": ["Sci-Fi", "Action"],
+        "rating": 8.8,
+        "release_year": 2010
+    },
+    {
+        "title": "The Matrix",
+        "genre": ["Sci-Fi", "Action"],
+        "rating": 8.7,
+        "release_year": 1999
+    },
+    {
+        "title": "Interstellar",
+        "genre": ["Sci-Fi", "Drama"],
+        "rating": 8.6,
+        "release_year": 2014
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": ["Action", "Crime"],
+        "rating": 9.0,
+        "release_year": 2008
+    },
+    {
+        "title": "Forrest Gump",
+        "genre": ["Drama", "Romance"],
+        "rating": 8.8,
+        "release_year": 1994
+    },
+    {
+        "title": "Parasite",
+        "genre": ["Thriller", "Drama"],
+        "rating": 8.6,
+        "release_year": 2019
+    },
+    {
+        "title": "Avengers: Endgame",
+        "genre": ["Action", "Sci-Fi"],
+        "rating": 8.4,
+        "release_year": 2019
+    },
+    {
+        "title": "The Godfather",
+        "genre": ["Crime", "Drama"],
+        "rating": 9.2,
+        "release_year": 1972
+    }
+]

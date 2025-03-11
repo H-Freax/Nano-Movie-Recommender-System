@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": 101,
+        "name": "Alice",
+        "watched_movies": ["Inception", "The Matrix", "Interstellar"]
+    },
+    {
+        "user_id": 102,
+        "name": "Bob",
+        "watched_movies": ["The Dark Knight", "Forrest Gump", "Parasite"]
+    },
+    {
+        "user_id": 103,
+        "name": "Charlie",
+        "watched_movies": ["Avengers: Endgame", "The Matrix", "The Godfather"]
+    },
+    {
+        "user_id": 104,
+        "name": "David",
+        "watched_movies": ["Inception", "The Dark Knight", "Parasite"]
+    },
+    {
+        "user_id": 105,
+        "name": "Emma",
+        "watched_movies": ["Forrest Gump", "Interstellar", "The Godfather"]
+    }
+]
